@@ -3,8 +3,8 @@
 ---
 
 ## 🎓 College Name: Vellore Institute of Technology , Vellore  
-### 👤 Student Name: Abhradeep Basu
-### 📧 Email Address: abhradeep.basu2023@vitstudent.ac.in
+### 👤 Student Name: Samriddhi Tiwary
+### 📧 Email Address: samriddhi.tiwary2023@vitstudent.ac.in
 
 ---
 
